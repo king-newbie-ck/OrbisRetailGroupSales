@@ -1,0 +1,301 @@
+CustomerID,CustomerName,Gender,Age,City,State,RegionID,CustomerSegment,SignupDate
+C00001,Customer 1,Male,20,Bhubaneswar,Odisha,3,Consumer,2022-07-29
+C00002,Customer 2,Male,56,Mumbai,Maharashtra,4,Consumer,2023-03-24
+C00003,Customer 3,Male,51,Hyderabad,Telangana,5,Small Business,2025-08-23
+C00004,Customer 4,Female,33,Ahmedabad,Gujarat,4,Small Business,2022-01-14
+C00005,Customer 5,Male,63,Ahmedabad,Gujarat,4,Consumer,2023-03-17
+C00006,Customer 6,Female,25,Chandigarh,Punjab,1,Consumer,2023-12-06
+C00007,Customer 7,Female,21,Mumbai,Maharashtra,4,Corporate,2024-02-15
+C00008,Customer 8,Male,54,Patna,Bihar,3,Small Business,2025-12-13
+C00009,Customer 9,Male,21,Coimbatore,Tamil Nadu,2,Corporate,2023-04-22
+C00010,Customer 10,Male,43,Guwahati,Assam,3,Small Business,2024-01-18
+C00011,Customer 11,Male,42,Bhubaneswar,Odisha,3,Small Business,2025-12-08
+C00012,Customer 12,Male,57,Bengaluru,Karnataka,2,Consumer,2024-02-17
+C00013,Customer 13,Female,59,Vijayawada,Andhra Pradesh,5,Small Business,2022-04-25
+C00014,Customer 14,Male,21,Guwahati,Assam,3,Consumer,2023-03-09
+C00015,Customer 15,Female,32,Nagpur,Maharashtra,4,Corporate,2025-08-09
+C00016,Customer 16,Female,28,Bhubaneswar,Odisha,3,Consumer,2025-02-23
+C00017,Customer 17,Female,56,Nagpur,Maharashtra,4,Consumer,2022-10-11
+C00018,Customer 18,Female,24,Delhi,Delhi,1,Consumer,2022-11-24
+C00019,Customer 19,Female,57,Chandigarh,Punjab,1,Consumer,2024-08-16
+C00020,Customer 20,Female,54,Delhi,Delhi,1,Small Business,2025-01-04
+C00021,Customer 21,Female,60,Kolkata,West Bengal,3,Consumer,2022-11-20
+C00022,Customer 22,Female,19,Bhubaneswar,Odisha,3,Consumer,2022-08-06
+C00023,Customer 23,Female,59,Vijayawada,Andhra Pradesh,5,Consumer,2022-11-27
+C00024,Customer 24,Male,57,Guwahati,Assam,3,Consumer,2024-01-14
+C00025,Customer 25,Female,34,Gurugram,Haryana,1,Corporate,2022-06-11
+C00026,Customer 26,Male,50,Gurugram,Haryana,1,Consumer,2024-08-31
+C00027,Customer 27,Male,35,Indore,Madhya Pradesh,5,Corporate,2025-01-09
+C00028,Customer 28,Male,64,Guwahati,Assam,3,Corporate,2025-08-23
+C00029,Customer 29,Female,47,Indore,Madhya Pradesh,5,Consumer,2023-04-06
+C00030,Customer 30,Male,40,Gurugram,Haryana,1,Small Business,2022-01-15
+C00031,Customer 31,Male,64,Gurugram,Haryana,1,Consumer,2022-03-06
+C00032,Customer 32,Female,23,Vijayawada,Andhra Pradesh,5,Consumer,2024-09-21
+C00033,Customer 33,Male,53,Kochi,Kerala,2,Consumer,2024-08-26
+C00034,Customer 34,Female,31,Delhi,Delhi,1,Small Business,2023-12-27
+C00035,Customer 35,Female,45,Mumbai,Maharashtra,4,Small Business,2025-08-16
+C00036,Customer 36,Male,22,Ahmedabad,Gujarat,4,Small Business,2022-08-12
+C00037,Customer 37,Male,31,Kochi,Kerala,2,Consumer,2023-01-11
+C00038,Customer 38,Female,48,Chennai,Tamil Nadu,2,Consumer,2025-02-01
+C00039,Customer 39,Male,22,Hyderabad,Telangana,5,Corporate,2023-04-30
+C00040,Customer 40,Male,45,Nagpur,Maharashtra,4,Consumer,2024-04-01
+C00041,Customer 41,Male,29,Mumbai,Maharashtra,4,Corporate,2023-06-28
+C00042,Customer 42,Female,37,Nagpur,Maharashtra,4,Consumer,2023-08-31
+C00043,Customer 43,Male,22,Hyderabad,Telangana,5,Small Business,2022-04-28
+C00044,Customer 44,Male,56,Pune,Maharashtra,4,Consumer,2024-11-06
+C00045,Customer 45,Male,30,Delhi,Delhi,1,Small Business,2023-04-27
+C00046,Customer 46,Female,26,Vijayawada,Andhra Pradesh,5,Small Business,2022-03-23
+C00047,Customer 47,Male,45,Nashik,Maharashtra,5,Corporate,2023-02-23
+C00048,Customer 48,Female,34,Guwahati,Assam,3,Consumer,2025-08-14
+C00049,Customer 49,Female,48,Kolkata,West Bengal,3,Consumer,2025-06-26
+C00050,Customer 50,Male,23,Vijayawada,Andhra Pradesh,5,Consumer,2022-09-29
+C00051,Customer 51,Female,23,Coimbatore,Tamil Nadu,2,Consumer,2024-06-16
+C00052,Customer 52,Female,58,Hyderabad,Telangana,5,Small Business,2025-02-09
+C00053,Customer 53,Female,61,Gurugram,Haryana,1,Consumer,2022-08-08
+C00054,Customer 54,Male,36,Bhubaneswar,Odisha,3,Small Business,2023-02-21
+C00055,Customer 55,Female,51,Ahmedabad,Gujarat,4,Corporate,2022-04-15
+C00056,Customer 56,Male,59,Ahmedabad,Gujarat,4,Consumer,2023-11-15
+C00057,Customer 57,Male,59,Bhubaneswar,Odisha,3,Small Business,2025-02-03
+C00058,Customer 58,Female,54,Delhi,Delhi,1,Consumer,2025-11-16
+C00059,Customer 59,Male,53,Noida,Uttar Pradesh,1,Small Business,2022-10-31
+C00060,Customer 60,Female,27,Noida,Uttar Pradesh,1,Consumer,2022-03-23
+C00061,Customer 61,Female,32,Chennai,Tamil Nadu,2,Consumer,2025-02-20
+C00062,Customer 62,Female,58,Bengaluru,Karnataka,2,Corporate,2022-12-29
+C00063,Customer 63,Female,20,Coimbatore,Tamil Nadu,2,Small Business,2024-04-23
+C00064,Customer 64,Male,36,Chennai,Tamil Nadu,2,Consumer,2022-03-21
+C00065,Customer 65,Female,33,Kochi,Kerala,2,Consumer,2023-04-12
+C00066,Customer 66,Male,20,Kochi,Kerala,2,Consumer,2022-05-23
+C00067,Customer 67,Female,41,Indore,Madhya Pradesh,5,Small Business,2025-01-03
+C00068,Customer 68,Female,20,Noida,Uttar Pradesh,1,Consumer,2023-06-28
+C00069,Customer 69,Male,25,Indore,Madhya Pradesh,5,Consumer,2023-10-05
+C00070,Customer 70,Female,57,Hyderabad,Telangana,5,Consumer,2025-03-26
+C00071,Customer 71,Male,35,Chandigarh,Punjab,1,Consumer,2025-01-07
+C00072,Customer 72,Male,42,Mumbai,Maharashtra,4,Corporate,2023-11-08
+C00073,Customer 73,Female,61,Noida,Uttar Pradesh,1,Consumer,2025-09-27
+C00074,Customer 74,Female,39,Ahmedabad,Gujarat,4,Small Business,2023-01-28
+C00075,Customer 75,Female,61,Pune,Maharashtra,4,Small Business,2023-09-09
+C00076,Customer 76,Female,54,Noida,Uttar Pradesh,1,Consumer,2024-05-30
+C00077,Customer 77,Female,48,Nagpur,Maharashtra,4,Small Business,2024-11-12
+C00078,Customer 78,Female,29,Noida,Uttar Pradesh,1,Consumer,2025-07-20
+C00079,Customer 79,Female,24,Coimbatore,Tamil Nadu,2,Consumer,2023-02-12
+C00080,Customer 80,Male,20,Gurugram,Haryana,1,Corporate,2025-06-05
+C00081,Customer 81,Male,48,Pune,Maharashtra,4,Small Business,2024-02-26
+C00082,Customer 82,Female,44,Bengaluru,Karnataka,2,Small Business,2022-01-12
+C00083,Customer 83,Male,46,Bengaluru,Karnataka,2,Small Business,2025-11-26
+C00084,Customer 84,Female,22,Vijayawada,Andhra Pradesh,5,Corporate,2022-09-06
+C00085,Customer 85,Female,27,Ahmedabad,Gujarat,4,Corporate,2024-06-25
+C00086,Customer 86,Female,54,Pune,Maharashtra,4,Small Business,2024-08-30
+C00087,Customer 87,Female,35,Coimbatore,Tamil Nadu,2,Small Business,2024-12-03
+C00088,Customer 88,Female,59,Coimbatore,Tamil Nadu,2,Consumer,2023-08-09
+C00089,Customer 89,Male,36,Patna,Bihar,3,Corporate,2022-06-15
+C00090,Customer 90,Male,28,Kochi,Kerala,2,Small Business,2025-12-17
+C00091,Customer 91,Male,23,Nagpur,Maharashtra,4,Consumer,2024-08-12
+C00092,Customer 92,Female,22,Kochi,Kerala,2,Consumer,2025-04-11
+C00093,Customer 93,Male,55,Nagpur,Maharashtra,4,Consumer,2023-12-22
+C00094,Customer 94,Female,43,Pune,Maharashtra,4,Consumer,2023-07-13
+C00095,Customer 95,Female,50,Chandigarh,Punjab,1,Consumer,2025-10-22
+C00096,Customer 96,Female,29,Pune,Maharashtra,4,Corporate,2024-12-29
+C00097,Customer 97,Male,44,Hyderabad,Telangana,5,Consumer,2024-05-27
+C00098,Customer 98,Male,48,Chennai,Tamil Nadu,2,Consumer,2023-11-02
+C00099,Customer 99,Male,48,Patna,Bihar,3,Small Business,2024-02-16
+C00100,Customer 100,Female,45,Kolkata,West Bengal,3,Consumer,2025-01-09
+C00101,Customer 101,Male,41,Chennai,Tamil Nadu,2,Small Business,2025-08-27
+C00102,Customer 102,Male,20,Bengaluru,Karnataka,2,Small Business,2025-06-26
+C00103,Customer 103,Male,34,Kochi,Kerala,2,Small Business,2025-03-01
+C00104,Customer 104,Male,48,Patna,Bihar,3,Consumer,2025-05-28
+C00105,Customer 105,Male,29,Kolkata,West Bengal,3,Small Business,2023-10-01
+C00106,Customer 106,Female,44,Chennai,Tamil Nadu,2,Small Business,2025-07-08
+C00107,Customer 107,Male,25,Kolkata,West Bengal,3,Small Business,2025-03-05
+C00108,Customer 108,Male,41,Indore,Madhya Pradesh,5,Small Business,2022-05-22
+C00109,Customer 109,Female,19,Nagpur,Maharashtra,4,Consumer,2024-01-12
+C00110,Customer 110,Female,64,Kochi,Kerala,2,Consumer,2024-12-04
+C00111,Customer 111,Female,58,Indore,Madhya Pradesh,5,Consumer,2025-04-28
+C00112,Customer 112,Female,39,Chennai,Tamil Nadu,2,Consumer,2024-07-12
+C00113,Customer 113,Male,48,Indore,Madhya Pradesh,5,Consumer,2024-10-09
+C00114,Customer 114,Female,30,Pune,Maharashtra,4,Consumer,2023-06-14
+C00115,Customer 115,Female,36,Nashik,Maharashtra,5,Small Business,2024-11-24
+C00116,Customer 116,Male,24,Kochi,Kerala,2,Consumer,2023-05-08
+C00117,Customer 117,Female,60,Nagpur,Maharashtra,4,Small Business,2022-07-10
+C00118,Customer 118,Female,33,Pune,Maharashtra,4,Consumer,2025-04-06
+C00119,Customer 119,Female,49,Nashik,Maharashtra,5,Consumer,2025-02-01
+C00120,Customer 120,Female,41,Ahmedabad,Gujarat,4,Consumer,2023-04-18
+C00121,Customer 121,Male,31,Kolkata,West Bengal,3,Small Business,2025-11-14
+C00122,Customer 122,Male,31,Kochi,Kerala,2,Consumer,2025-04-22
+C00123,Customer 123,Female,25,Coimbatore,Tamil Nadu,2,Consumer,2023-01-03
+C00124,Customer 124,Female,19,Vijayawada,Andhra Pradesh,5,Consumer,2022-04-22
+C00125,Customer 125,Female,63,Kochi,Kerala,2,Consumer,2022-01-26
+C00126,Customer 126,Female,49,Nagpur,Maharashtra,4,Consumer,2022-04-16
+C00127,Customer 127,Female,49,Delhi,Delhi,1,Consumer,2022-06-01
+C00128,Customer 128,Male,28,Coimbatore,Tamil Nadu,2,Consumer,2023-05-24
+C00129,Customer 129,Male,54,Pune,Maharashtra,4,Small Business,2024-02-19
+C00130,Customer 130,Female,47,Guwahati,Assam,3,Consumer,2025-06-25
+C00131,Customer 131,Male,58,Gurugram,Haryana,1,Small Business,2023-06-26
+C00132,Customer 132,Male,29,Bengaluru,Karnataka,2,Small Business,2022-11-17
+C00133,Customer 133,Male,45,Nagpur,Maharashtra,4,Consumer,2023-04-20
+C00134,Customer 134,Female,64,Guwahati,Assam,3,Consumer,2023-04-24
+C00135,Customer 135,Female,59,Vijayawada,Andhra Pradesh,5,Consumer,2025-01-20
+C00136,Customer 136,Male,60,Coimbatore,Tamil Nadu,2,Small Business,2022-05-27
+C00137,Customer 137,Male,29,Patna,Bihar,3,Consumer,2024-08-17
+C00138,Customer 138,Female,63,Ahmedabad,Gujarat,4,Consumer,2024-10-08
+C00139,Customer 139,Female,24,Hyderabad,Telangana,5,Corporate,2023-10-23
+C00140,Customer 140,Female,20,Gurugram,Haryana,1,Corporate,2025-03-24
+C00141,Customer 141,Male,62,Kolkata,West Bengal,3,Small Business,2022-12-25
+C00142,Customer 142,Female,52,Ahmedabad,Gujarat,4,Consumer,2025-04-13
+C00143,Customer 143,Female,59,Mumbai,Maharashtra,4,Consumer,2024-04-16
+C00144,Customer 144,Female,39,Gurugram,Haryana,1,Consumer,2025-11-21
+C00145,Customer 145,Female,37,Mumbai,Maharashtra,4,Consumer,2023-10-07
+C00146,Customer 146,Female,39,Chandigarh,Punjab,1,Corporate,2022-01-03
+C00147,Customer 147,Female,45,Gurugram,Haryana,1,Consumer,2025-06-29
+C00148,Customer 148,Female,59,Mumbai,Maharashtra,4,Consumer,2025-01-29
+C00149,Customer 149,Male,37,Nagpur,Maharashtra,4,Consumer,2025-07-14
+C00150,Customer 150,Male,64,Coimbatore,Tamil Nadu,2,Small Business,2025-02-05
+C00151,Customer 151,Female,24,Chennai,Tamil Nadu,2,Consumer,2022-08-29
+C00152,Customer 152,Male,50,Patna,Bihar,3,Consumer,2024-09-15
+C00153,Customer 153,Female,34,Pune,Maharashtra,4,Consumer,2025-05-12
+C00154,Customer 154,Male,23,Guwahati,Assam,3,Consumer,2024-11-05
+C00155,Customer 155,Female,19,Patna,Bihar,3,Small Business,2025-04-02
+C00156,Customer 156,Female,28,Nagpur,Maharashtra,4,Consumer,2025-02-04
+C00157,Customer 157,Female,48,Bhubaneswar,Odisha,3,Corporate,2023-05-05
+C00158,Customer 158,Female,33,Mumbai,Maharashtra,4,Consumer,2024-08-26
+C00159,Customer 159,Female,43,Kochi,Kerala,2,Corporate,2022-09-16
+C00160,Customer 160,Female,25,Mumbai,Maharashtra,4,Consumer,2024-07-24
+C00161,Customer 161,Male,28,Pune,Maharashtra,4,Consumer,2023-06-27
+C00162,Customer 162,Female,58,Mumbai,Maharashtra,4,Corporate,2025-10-13
+C00163,Customer 163,Female,39,Mumbai,Maharashtra,4,Small Business,2023-04-26
+C00164,Customer 164,Female,33,Chandigarh,Punjab,1,Corporate,2025-07-21
+C00165,Customer 165,Male,47,Coimbatore,Tamil Nadu,2,Corporate,2022-04-05
+C00166,Customer 166,Female,22,Patna,Bihar,3,Consumer,2022-10-26
+C00167,Customer 167,Male,52,Pune,Maharashtra,4,Consumer,2022-06-11
+C00168,Customer 168,Female,58,Kochi,Kerala,2,Corporate,2022-10-21
+C00169,Customer 169,Male,48,Guwahati,Assam,3,Consumer,2022-01-20
+C00170,Customer 170,Female,37,Vijayawada,Andhra Pradesh,5,Consumer,2023-12-09
+C00171,Customer 171,Female,59,Ahmedabad,Gujarat,4,Consumer,2023-09-11
+C00172,Customer 172,Male,43,Mumbai,Maharashtra,4,Consumer,2025-03-17
+C00173,Customer 173,Female,55,Patna,Bihar,3,Consumer,2025-09-10
+C00174,Customer 174,Female,36,Delhi,Delhi,1,Corporate,2024-10-14
+C00175,Customer 175,Female,33,Nashik,Maharashtra,5,Consumer,2023-01-25
+C00176,Customer 176,Female,62,Chennai,Tamil Nadu,2,Corporate,2025-08-16
+C00177,Customer 177,Male,38,Mumbai,Maharashtra,4,Small Business,2022-09-27
+C00178,Customer 178,Male,37,Guwahati,Assam,3,Consumer,2022-09-28
+C00179,Customer 179,Female,52,Nashik,Maharashtra,5,Small Business,2023-06-11
+C00180,Customer 180,Female,37,Kolkata,West Bengal,3,Consumer,2022-06-04
+C00181,Customer 181,Male,33,Ahmedabad,Gujarat,4,Consumer,2024-03-19
+C00182,Customer 182,Male,35,Hyderabad,Telangana,5,Consumer,2025-10-09
+C00183,Customer 183,Female,56,Ahmedabad,Gujarat,4,Consumer,2023-04-24
+C00184,Customer 184,Female,20,Nashik,Maharashtra,5,Corporate,2023-03-30
+C00185,Customer 185,Male,59,Ahmedabad,Gujarat,4,Small Business,2022-08-27
+C00186,Customer 186,Male,21,Noida,Uttar Pradesh,1,Corporate,2022-08-26
+C00187,Customer 187,Male,34,Vijayawada,Andhra Pradesh,5,Consumer,2024-01-30
+C00188,Customer 188,Female,56,Kochi,Kerala,2,Small Business,2024-09-29
+C00189,Customer 189,Female,36,Noida,Uttar Pradesh,1,Consumer,2024-06-29
+C00190,Customer 190,Male,42,Noida,Uttar Pradesh,1,Consumer,2025-08-13
+C00191,Customer 191,Female,22,Ahmedabad,Gujarat,4,Consumer,2022-09-08
+C00192,Customer 192,Female,24,Chennai,Tamil Nadu,2,Consumer,2023-11-15
+C00193,Customer 193,Male,27,Vijayawada,Andhra Pradesh,5,Consumer,2025-02-09
+C00194,Customer 194,Male,56,Bengaluru,Karnataka,2,Consumer,2022-10-30
+C00195,Customer 195,Male,36,Bengaluru,Karnataka,2,Consumer,2022-12-24
+C00196,Customer 196,Male,61,Gurugram,Haryana,1,Consumer,2023-05-03
+C00197,Customer 197,Female,20,Coimbatore,Tamil Nadu,2,Consumer,2024-05-12
+C00198,Customer 198,Male,23,Nagpur,Maharashtra,4,Small Business,2024-11-17
+C00199,Customer 199,Male,47,Vijayawada,Andhra Pradesh,5,Corporate,2022-03-30
+C00200,Customer 200,Female,48,Delhi,Delhi,1,Corporate,2024-04-02
+C00201,Customer 201,Female,62,Chandigarh,Punjab,1,Small Business,2024-06-27
+C00202,Customer 202,Male,24,Bhubaneswar,Odisha,3,Consumer,2023-07-18
+C00203,Customer 203,Female,43,Nashik,Maharashtra,5,Consumer,2025-05-24
+C00204,Customer 204,Female,25,Gurugram,Haryana,1,Consumer,2023-04-13
+C00205,Customer 205,Female,40,Nagpur,Maharashtra,4,Consumer,2022-07-14
+C00206,Customer 206,Female,46,Patna,Bihar,3,Consumer,2022-11-09
+C00207,Customer 207,Female,23,Delhi,Delhi,1,Consumer,2022-07-17
+C00208,Customer 208,Female,27,Hyderabad,Telangana,5,Small Business,2025-02-24
+C00209,Customer 209,Female,61,Chandigarh,Punjab,1,Consumer,2025-09-24
+C00210,Customer 210,Female,22,Patna,Bihar,3,Consumer,2025-03-29
+C00211,Customer 211,Male,28,Pune,Maharashtra,4,Small Business,2023-12-19
+C00212,Customer 212,Female,26,Bhubaneswar,Odisha,3,Small Business,2025-02-22
+C00213,Customer 213,Male,57,Kolkata,West Bengal,3,Consumer,2025-12-10
+C00214,Customer 214,Female,40,Kolkata,West Bengal,3,Consumer,2022-10-21
+C00215,Customer 215,Female,23,Chennai,Tamil Nadu,2,Consumer,2024-12-22
+C00216,Customer 216,Male,43,Nagpur,Maharashtra,4,Consumer,2024-01-28
+C00217,Customer 217,Female,39,Hyderabad,Telangana,5,Corporate,2022-11-15
+C00218,Customer 218,Male,58,Delhi,Delhi,1,Consumer,2025-09-17
+C00219,Customer 219,Female,50,Indore,Madhya Pradesh,5,Consumer,2023-03-18
+C00220,Customer 220,Male,41,Mumbai,Maharashtra,4,Consumer,2025-10-21
+C00221,Customer 221,Female,52,Kolkata,West Bengal,3,Consumer,2025-05-12
+C00222,Customer 222,Male,19,Coimbatore,Tamil Nadu,2,Corporate,2022-10-09
+C00223,Customer 223,Female,37,Kolkata,West Bengal,3,Consumer,2024-05-31
+C00224,Customer 224,Male,27,Pune,Maharashtra,4,Consumer,2025-09-30
+C00225,Customer 225,Female,23,Mumbai,Maharashtra,4,Consumer,2024-07-30
+C00226,Customer 226,Male,39,Indore,Madhya Pradesh,5,Small Business,2025-12-24
+C00227,Customer 227,Female,37,Chandigarh,Punjab,1,Consumer,2023-10-28
+C00228,Customer 228,Male,58,Ahmedabad,Gujarat,4,Consumer,2022-08-05
+C00229,Customer 229,Male,46,Indore,Madhya Pradesh,5,Consumer,2024-03-21
+C00230,Customer 230,Female,40,Coimbatore,Tamil Nadu,2,Small Business,2022-06-06
+C00231,Customer 231,Male,52,Vijayawada,Andhra Pradesh,5,Corporate,2023-12-17
+C00232,Customer 232,Female,60,Bengaluru,Karnataka,2,Consumer,2023-06-09
+C00233,Customer 233,Male,30,Vijayawada,Andhra Pradesh,5,Small Business,2025-09-04
+C00234,Customer 234,Male,30,Nagpur,Maharashtra,4,Small Business,2025-04-01
+C00235,Customer 235,Female,62,Nashik,Maharashtra,5,Corporate,2025-07-08
+C00236,Customer 236,Female,28,Mumbai,Maharashtra,4,Consumer,2025-07-17
+C00237,Customer 237,Female,36,Hyderabad,Telangana,5,Consumer,2022-06-01
+C00238,Customer 238,Female,48,Mumbai,Maharashtra,4,Consumer,2023-08-11
+C00239,Customer 239,Male,60,Chandigarh,Punjab,1,Consumer,2025-02-09
+C00240,Customer 240,Male,47,Vijayawada,Andhra Pradesh,5,Consumer,2024-09-01
+C00241,Customer 241,Male,22,Mumbai,Maharashtra,4,Small Business,2023-12-05
+C00242,Customer 242,Male,51,Chennai,Tamil Nadu,2,Consumer,2024-06-15
+C00243,Customer 243,Female,52,Vijayawada,Andhra Pradesh,5,Consumer,2023-08-03
+C00244,Customer 244,Female,45,Kolkata,West Bengal,3,Small Business,2025-08-18
+C00245,Customer 245,Female,23,Kolkata,West Bengal,3,Small Business,2024-03-02
+C00246,Customer 246,Female,35,Vijayawada,Andhra Pradesh,5,Consumer,2025-04-08
+C00247,Customer 247,Male,41,Guwahati,Assam,3,Consumer,2025-12-22
+C00248,Customer 248,Male,38,Indore,Madhya Pradesh,5,Small Business,2023-11-04
+C00249,Customer 249,Male,61,Hyderabad,Telangana,5,Small Business,2024-05-17
+C00250,Customer 250,Female,20,Patna,Bihar,3,Consumer,2023-03-15
+C00251,Customer 251,Female,50,Bengaluru,Karnataka,2,Corporate,2022-11-14
+C00252,Customer 252,Male,37,Delhi,Delhi,1,Small Business,2025-06-19
+C00253,Customer 253,Male,57,Pune,Maharashtra,4,Consumer,2025-11-19
+C00254,Customer 254,Male,47,Chandigarh,Punjab,1,Consumer,2023-05-02
+C00255,Customer 255,Female,58,Guwahati,Assam,3,Consumer,2023-05-05
+C00256,Customer 256,Female,49,Coimbatore,Tamil Nadu,2,Small Business,2025-03-14
+C00257,Customer 257,Female,48,Guwahati,Assam,3,Consumer,2024-05-07
+C00258,Customer 258,Male,31,Vijayawada,Andhra Pradesh,5,Corporate,2022-04-17
+C00259,Customer 259,Female,42,Hyderabad,Telangana,5,Small Business,2024-11-22
+C00260,Customer 260,Male,37,Gurugram,Haryana,1,Consumer,2024-11-17
+C00261,Customer 261,Male,46,Gurugram,Haryana,1,Small Business,2023-12-17
+C00262,Customer 262,Male,45,Chandigarh,Punjab,1,Consumer,2023-04-28
+C00263,Customer 263,Female,24,Bhubaneswar,Odisha,3,Consumer,2022-07-22
+C00264,Customer 264,Female,28,Chennai,Tamil Nadu,2,Consumer,2024-08-25
+C00265,Customer 265,Male,64,Nagpur,Maharashtra,4,Small Business,2022-06-12
+C00266,Customer 266,Male,35,Bengaluru,Karnataka,2,Consumer,2025-05-31
+C00267,Customer 267,Female,26,Bhubaneswar,Odisha,3,Consumer,2022-04-08
+C00268,Customer 268,Male,45,Indore,Madhya Pradesh,5,Consumer,2024-10-20
+C00269,Customer 269,Male,59,Vijayawada,Andhra Pradesh,5,Small Business,2023-08-20
+C00270,Customer 270,Female,19,Nashik,Maharashtra,5,Consumer,2024-05-03
+C00271,Customer 271,Male,61,Noida,Uttar Pradesh,1,Consumer,2024-12-13
+C00272,Customer 272,Male,43,Mumbai,Maharashtra,4,Small Business,2024-02-04
+C00273,Customer 273,Female,20,Kolkata,West Bengal,3,Consumer,2025-09-07
+C00274,Customer 274,Male,56,Bhubaneswar,Odisha,3,Consumer,2025-01-23
+C00275,Customer 275,Female,60,Kochi,Kerala,2,Corporate,2024-09-07
+C00276,Customer 276,Male,27,Chandigarh,Punjab,1,Consumer,2023-02-17
+C00277,Customer 277,Male,31,Noida,Uttar Pradesh,1,Corporate,2024-11-21
+C00278,Customer 278,Female,53,Ahmedabad,Gujarat,4,Consumer,2025-08-17
+C00279,Customer 279,Male,37,Kolkata,West Bengal,3,Corporate,2023-11-11
+C00280,Customer 280,Female,26,Guwahati,Assam,3,Corporate,2024-06-19
+C00281,Customer 281,Female,40,Kochi,Kerala,2,Small Business,2024-01-23
+C00282,Customer 282,Female,24,Mumbai,Maharashtra,4,Consumer,2023-01-05
+C00283,Customer 283,Female,39,Delhi,Delhi,1,Consumer,2023-08-29
+C00284,Customer 284,Female,47,Indore,Madhya Pradesh,5,Consumer,2024-06-28
+C00285,Customer 285,Female,47,Noida,Uttar Pradesh,1,Small Business,2024-06-09
+C00286,Customer 286,Female,59,Delhi,Delhi,1,Small Business,2024-04-11
+C00287,Customer 287,Female,51,Chennai,Tamil Nadu,2,Consumer,2025-05-29
+C00288,Customer 288,Female,21,Chennai,Tamil Nadu,2,Consumer,2025-08-14
+C00289,Customer 289,Female,42,Mumbai,Maharashtra,4,Small Business,2025-10-22
+C00290,Customer 290,Female,42,Guwahati,Assam,3,Small Business,2025-03-21
+C00291,Customer 291,Male,52,Guwahati,Assam,3,Consumer,2023-07-25
+C00292,Customer 292,Male,26,Gurugram,Haryana,1,Consumer,2024-03-03
+C00293,Customer 293,Male,35,Guwahati,Assam,3,Consumer,2025-06-07
+C00294,Customer 294,Female,63,Pune,Maharashtra,4,Consumer,2022-06-01
+C00295,Customer 295,Female,30,Mumbai,Maharashtra,4,Small Business,2023-10-17
+C00296,Customer 296,Female,64,Noida,Uttar Pradesh,1,Corporate,2022-11-19
+C00297,Customer 297,Male,42,Vijayawada,Andhra Pradesh,5,Consumer,2023-02-16
+C00298,Customer 298,Male,34,Mumbai,Maharashtra,4,Consumer,2025-03-18
+C00299,Customer 299,Female,48,Vijayawada,Andhra Pradesh,5,Small Business,2022-06-26
+C00300,Customer 300,Male,38,Nagpur,Maharashtra,4,Consumer,2024-04-18
