@@ -62,10 +62,9 @@ Star schema with `Sales` as the central fact table, connected to `Customers`, `P
   regions.csv
   sales_targets.csv
 /dashboard
-  Orbis_Sales_Dashboard.pbix
+  OrbitRetailGroupSales.pbix
 /docs
-  Sales_Performance_PowerBI_Build_Guide.docx
-orbis_logo.png
+  OrbitRetailGroup.png
 ```
 
 ## 🚀 How to Use
